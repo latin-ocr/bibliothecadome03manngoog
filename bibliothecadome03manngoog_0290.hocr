@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecadome03manngoog_0290.png"; bbox 0 0 729 1106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 146 420 302">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 146 420 302">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 146 420 184; baseline -0.013 -5"><span class='ocrx_word' id='word_1_1' title='bbox 118 158 192 184; x_wconf 66' lang='lat' dir='ltr'>Duplu</span> <span class='ocrx_word' id='word_1_2' title='bbox 204 163 261 178; x_wconf 70' lang='lat' dir='ltr'>nutem</span> <span class='ocrx_word' id='word_1_3' title='bbox 273 146 420 177; x_wconf 46' lang='lat' dir='ltr'>§.ba-:nahe</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 118 183 319 208; baseline -0.015 -4"><span class='ocrx_word' id='word_1_4' title='bbox 118 184 206 204; x_wconf 63' lang='lat' dir='ltr'>sterium:</span> <span class='ocrx_word' id='word_1_5' title='bbox 229 183 304 208; x_wconf 63' lang='lat' dir='ltr'>primm:</span> <span class='ocrx_word' id='word_1_6' title='bbox 313 195 319 204; x_wconf 84' lang='lat'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 119 207 304 228; baseline -0.011 0"><span class='ocrx_word' id='word_1_7' title='bbox 119 214 140 228; x_wconf 70' lang='lat' dir='ltr'>w</span> <span class='ocrx_word' id='word_1_8' title='bbox 152 209 170 227; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 183 208 234 227; x_wconf 70' lang='lat' dir='ltr'>Mirr:</span> <span class='ocrx_word' id='word_1_10' title='bbox 246 207 304 227; x_wconf 61' lang='lat'>§2:¹5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 120 233 277 261; baseline -0.013 -9"><span class='ocrx_word' id='word_1_11' title='bbox 120 233 163 252; x_wconf 73' lang='lat' dir='ltr'>dnm</span> <span class='ocrx_word' id='word_1_12' title='bbox 175 233 277 261; x_wconf 64' lang='lat' dir='ltr'>ord=m=3mv</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 121 263 265 302; baseline -0.014 0"><span class='ocrx_word' id='word_1_13' title='bbox 121 263 265 302; x_wconf 60' lang='lat' dir='ltr'>ffiffi?‘s⁰.1{¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 101 145 564 968">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 101 145 564 968">
+     <span class='ocr_line' id='line_1_6' title="bbox 293 145 533 261; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 293 145 533 261; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 101 261 564 968; baseline 0 -656"><span class='ocrx_word' id='word_1_15' title='bbox 101 261 564 968; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 280 245 286 254">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 280 245 286 254">
+     <span class='ocr_line' id='line_1_8' title="bbox 280 245 286 254; baseline 0 852"><span class='ocrx_word' id='word_1_16' title='bbox 280 245 286 254; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
